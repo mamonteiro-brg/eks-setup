@@ -1,0 +1,6 @@
+control_center:
+  enabled: true  
+  externalAccess:
+    type: loadBalancer
+    loadBalancer:
+      domain: r-eusebio.online

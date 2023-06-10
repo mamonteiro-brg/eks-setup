@@ -1,0 +1,6 @@
+kafka:
+  storageClass: gp2-retain-expandable
+  externalAccess:
+    type: loadBalancer
+    loadBalancer:
+      domain: r-eusebio.online
